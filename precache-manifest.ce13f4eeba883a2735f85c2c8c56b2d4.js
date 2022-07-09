@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c632d6f3a9db645499cc308b2c11b5e1",
+    "revision": "cdb00b0bde03b13b589ed24d9514bff1",
     "url": "/kharyalawelfaretrust/index.html"
   },
   {

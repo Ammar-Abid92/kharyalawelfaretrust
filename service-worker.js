@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kharyalawelfaretrust/precache-manifest.e7ff896bca05a37bdb61f88d4f12fdf4.js"
+  "/kharyalawelfaretrust/precache-manifest.ce13f4eeba883a2735f85c2c8c56b2d4.js"
 );
 
 self.addEventListener('message', (event) => {
