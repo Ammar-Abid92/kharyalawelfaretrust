@@ -450,7 +450,7 @@ const about = {
     },
     {
       title: "MUHAMMAD TANVEER TANOLI ",
-      subtitle: "HONORARY FOUNDER MEMBER",
+      subtitle: " FOUNDER ",
       logo_path: "MuhammadTanveerTanoli(F)(S).JPG",
       color_code: "#00000099",
     },
