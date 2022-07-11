@@ -441,6 +441,20 @@ const about = {
       color_code: "#00000099",
     },
   ],
+  founderMembers: [
+    {
+      title: "JAWAID WALI ",
+      subtitle: "CHAIRMAN",
+      logo_path: "JawaidWali(F)(B).jpeg",
+      color_code: "#00000099",
+    },
+    {
+      title: "MUHAMMAD TANVEER TANOLI ",
+      subtitle: "HONORARY FOUNDER MEMBER",
+      logo_path: "MuhammadTanveerTanoli(F)(S).JPG",
+      color_code: "#00000099",
+    },
+  ]
 };
 
 // Experience Page

@@ -58,6 +58,22 @@ class Certifications extends Component {
             );
           })}
         </div>
+        <div className="certs-header-div">
+          <Fade bottom duration={2000} distance="20px">
+            <h1 className="certs-header" style={{ color: theme.text }}>
+              Founders
+            </h1>
+            <br />
+          </Fade>
+        </div>
+        <div className="certs-body-div">
+          {about.founderMembers.map((each) => {
+            return (
+              <CertificationCard certificate={each} theme={theme} />
+            );
+          })}
+        </div>
+
 
       </div>
     );
