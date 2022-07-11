@@ -8,6 +8,8 @@ class CertificationCard extends Component {
     const theme = this.props.theme;
     return (
       <Fade bottom duration={2000} distance="20px">
+        
+          
         <div className="cert-card">
           <div className="content">
             <a

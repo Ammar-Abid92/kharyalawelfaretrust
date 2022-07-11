@@ -7,7 +7,7 @@ export const Box = styled.div`
   bottom: 0;
   width: 100%;
 
-  @media (min-width: 768px) {
+  @media (max-width: 768px) {
     padding: 35px 15px;
   }
 `;
@@ -38,7 +38,8 @@ export const Row = styled.div`
   grid-gap: 20px;
 
   @media (max-width: 1000px) {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    
   }
 `;
 
@@ -49,7 +50,7 @@ export const FooterLink = styled.a`
   text-decoration: none;
 
   &:hover {
-    color: green;
+    color: blue;
     transition: 200ms ease-in;
   }
 `;

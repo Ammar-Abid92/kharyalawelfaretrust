@@ -12,22 +12,53 @@ class Certifications extends Component {
         <div className="certs-header-div">
           <Fade bottom duration={2000} distance="20px">
             <h1 className="certs-header" style={{ color: theme.text }}>
-              All Members
+              Board Of Trustees
             </h1>
             <br />
           </Fade>
         </div>
         <div className="certs-body-div">
           {about.trusteesMembers.map((each) => {
-            return <CertificationCard certificate={each} theme={theme} />;
-          })}
-          {about.shurraMembers.map((each) => {
-            return <CertificationCard certificate={each} theme={theme} />;
-          })}
-          {about.mediaMembers.map((each) => {
-            return <CertificationCard certificate={each} theme={theme} />;
+            return (
+              <CertificationCard certificate={each} theme={theme} />
+            );
           })}
         </div>
+
+        <div className="certs-header-div">
+          <Fade bottom duration={2000} distance="20px">
+            <br />
+            <h1 className="certs-header" style={{ color: theme.text }}>
+
+              Shurra Members
+            </h1>
+            <br />
+          </Fade>
+        </div>
+        <div className="certs-body-div">
+          {about.shurraMembers.map((each) => {
+            return (
+              <CertificationCard certificate={each} theme={theme} />
+            );
+          })}
+        </div>
+        <div className="certs-header-div">
+          <Fade bottom duration={2000} distance="20px">
+            <br />
+            <h1 className="certs-header" style={{ color: theme.text }}>
+              Social Media Members
+            </h1>
+            <br />
+          </Fade>
+        </div>
+        <div className="certs-body-div">
+          {about.mediaMembers.map((each) => {
+            return (
+              <CertificationCard certificate={each} theme={theme} />
+            );
+          })}
+        </div>
+
       </div>
     );
   }

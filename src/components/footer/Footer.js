@@ -12,16 +12,22 @@ const Footer = (props) => {
   console.log("propssss---->", props);
   return (
     <Box>
-      <h1
+      <Heading style={{color: "#A6E1FA",
+          textAlign: "center",
+          marginTop: "15px",
+          marginBottom: "40px",
+          width:"100%"}} >Kharyala Welfare Trust</Heading>
+      {/* <h1
         style={{
           color: "#A6E1FA",
           textAlign: "center",
           marginTop: "-25px",
           marginBottom: "40px",
+          width:"100%"
         }}
       >
         Kharyala Welfare Trust
-      </h1>
+      </h1> */}
       <Container>
         <Row>
           <Column>
