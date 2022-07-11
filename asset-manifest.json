@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kharyalawelfaretrust/static/css/main.731298fa.chunk.css",
-    "main.js": "/kharyalawelfaretrust/static/js/main.6fc91ddb.chunk.js",
-    "main.js.map": "/kharyalawelfaretrust/static/js/main.6fc91ddb.chunk.js.map",
+    "main.css": "/kharyalawelfaretrust/static/css/main.a80a22eb.chunk.css",
+    "main.js": "/kharyalawelfaretrust/static/js/main.d04d7d0b.chunk.js",
+    "main.js.map": "/kharyalawelfaretrust/static/js/main.d04d7d0b.chunk.js.map",
     "runtime-main.js": "/kharyalawelfaretrust/static/js/runtime-main.6042644d.js",
     "runtime-main.js.map": "/kharyalawelfaretrust/static/js/runtime-main.6042644d.js.map",
     "static/css/2.1ebb0010.chunk.css": "/kharyalawelfaretrust/static/css/2.1ebb0010.chunk.css",
     "static/js/2.d12f9bbd.chunk.js": "/kharyalawelfaretrust/static/js/2.d12f9bbd.chunk.js",
     "static/js/2.d12f9bbd.chunk.js.map": "/kharyalawelfaretrust/static/js/2.d12f9bbd.chunk.js.map",
     "index.html": "/kharyalawelfaretrust/index.html",
-    "precache-manifest.ce13f4eeba883a2735f85c2c8c56b2d4.js": "/kharyalawelfaretrust/precache-manifest.ce13f4eeba883a2735f85c2c8c56b2d4.js",
+    "precache-manifest.b2323eda25f0abece06843e6d86494e1.js": "/kharyalawelfaretrust/precache-manifest.b2323eda25f0abece06843e6d86494e1.js",
     "service-worker.js": "/kharyalawelfaretrust/service-worker.js",
     "static/css/2.1ebb0010.chunk.css.map": "/kharyalawelfaretrust/static/css/2.1ebb0010.chunk.css.map",
-    "static/css/main.731298fa.chunk.css.map": "/kharyalawelfaretrust/static/css/main.731298fa.chunk.css.map",
+    "static/css/main.a80a22eb.chunk.css.map": "/kharyalawelfaretrust/static/css/main.a80a22eb.chunk.css.map",
     "static/media/4db8c94e-7e49-4efd-9058-7641d0ac6627.JPG": "/kharyalawelfaretrust/static/media/4db8c94e-7e49-4efd-9058-7641d0ac6627.3f65e071.JPG",
     "static/media/index.css": "/kharyalawelfaretrust/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/FB_IMG_1558775250680.jpg": "/kharyalawelfaretrust/static/media/FB_IMG_1558775250680.b0f5da4a.jpg",
@@ -77,7 +77,7 @@
     "static/js/runtime-main.6042644d.js",
     "static/css/2.1ebb0010.chunk.css",
     "static/js/2.d12f9bbd.chunk.js",
-    "static/css/main.731298fa.chunk.css",
-    "static/js/main.6fc91ddb.chunk.js"
+    "static/css/main.a80a22eb.chunk.css",
+    "static/js/main.d04d7d0b.chunk.js"
   ]
 }

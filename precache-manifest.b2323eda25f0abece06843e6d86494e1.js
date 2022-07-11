@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdb00b0bde03b13b589ed24d9514bff1",
+    "revision": "20b9eaf591a347cd6234b4bb37bc799a",
     "url": "/kharyalawelfaretrust/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kharyalawelfaretrust/static/css/2.1ebb0010.chunk.css"
   },
   {
-    "revision": "af3be50fa67bfb2e056e",
-    "url": "/kharyalawelfaretrust/static/css/main.731298fa.chunk.css"
+    "revision": "e117971492f1f1f03f56",
+    "url": "/kharyalawelfaretrust/static/css/main.a80a22eb.chunk.css"
   },
   {
     "revision": "4026ec393b2b2a1c6628",
     "url": "/kharyalawelfaretrust/static/js/2.d12f9bbd.chunk.js"
   },
   {
-    "revision": "af3be50fa67bfb2e056e",
-    "url": "/kharyalawelfaretrust/static/js/main.6fc91ddb.chunk.js"
+    "revision": "e117971492f1f1f03f56",
+    "url": "/kharyalawelfaretrust/static/js/main.d04d7d0b.chunk.js"
   },
   {
     "revision": "016607cfa6e390ee7165",
