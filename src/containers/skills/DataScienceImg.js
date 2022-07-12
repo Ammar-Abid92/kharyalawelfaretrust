@@ -24,9 +24,9 @@ const DataScienceImg = () => {
       {!dataBool ? (
         <img
           style={{
-            marginLeft: "20px",
-            height: "400px",
-            width: "430px",
+            marginLeft: "0px",
+            maxWidth: "100%",
+            height: "auto",
           }}
           src={require("../../assests/images/themain.jpeg")}
           alt="Kharyala Trust"
@@ -36,8 +36,8 @@ const DataScienceImg = () => {
           <img
             style={{
               marginLeft: "0px",
-              height: "400px",
-              width: "430px",
+              maxWidth: "100%",
+              height: "auto",
             }}
             src={data.urls}
             alt="Kharyala Trust"

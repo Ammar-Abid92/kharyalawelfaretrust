@@ -9,14 +9,17 @@ const FullStackImg = () => {
     <Fade bottom duration={2000} distance="20px">
       <Carousel
         style={{
-          marginLeft: "15px",
-          height: "400px",
-          width: "430px",
+          marginLeft: "30px",
+          height: "auto",
+          maxWidth: "80%",
+          borderRadius: "15px"
         }}
       >
         <Carousel.Item>
           <img
-            style={{ height: "400px", width: "430px" }}
+            style={{
+              height: "450px", width: "100%", borderRadius: "15px"
+            }}
             src={require("../../assests/images/JawaidWali(F)(B).jpeg")}
             alt="Kharyala"
           />
@@ -26,7 +29,9 @@ const FullStackImg = () => {
         </Carousel.Item>
         <Carousel.Item>
           <img
-            style={{ height: "400px", width: "430px" }}
+            style={{
+              height: "450px", width: "100%", borderRadius: "15px"
+            }}
             src={require("../../assests/images/MuhammadTanveerTanoli(F)(S).JPG")}
             alt="Kharyala"
           />

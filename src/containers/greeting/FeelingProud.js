@@ -24,24 +24,20 @@ const FeelingProud = () => {
     <div>
       {!dataBool && !Object.keys(data).length ? (
         <img
-          style={{
-            marginTop: "40px",
-            marginLeft: "10px",
-            height: "400px",
-            width: "430px",
-          }}
+        style={{
+          maxWidth: "100%",
+          height: "auto",
+        }}
           src={require("../../assests/images/main.png")}
           alt="Kharyala Trust"
         ></img>
       ) : (
         <Fade top duration={2500} distance="60px">
           <img
-            style={{
-              marginTop: "40px",
-              marginLeft: "10px",
-              height: "400px",
-              width: "420px",
-            }}
+        style={{
+          maxWidth: "100%",
+          height: "auto",
+        }}
             src={data.urls}
             alt="Kharyala Trust"
           ></img>

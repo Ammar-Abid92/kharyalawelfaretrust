@@ -25,8 +25,8 @@ const CloudInfraImg = () => {
         <img
           style={{
             marginLeft: "0px",
-            height: "400px",
-            width: "430px",
+            maxWidth: "100%",
+            height: "auto",
           }}
           src={require("../../assests/images/main2.jpeg")}
           alt="Kharyala Trust"
@@ -36,8 +36,8 @@ const CloudInfraImg = () => {
           <img
             style={{
               marginLeft: "0px",
-              height: "400px",
-              width: "430px",
+              maxWidth: "100%",
+              height: "auto",
             }}
             src={data.urls}
             alt="Kharyala Trust"
