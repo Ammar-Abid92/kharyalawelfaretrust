@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.52c35469.chunk.css",
-    "main.js": "/static/js/main.ef9f6fb9.chunk.js",
-    "main.js.map": "/static/js/main.ef9f6fb9.chunk.js.map",
+    "main.js": "/static/js/main.c4255b10.chunk.js",
+    "main.js.map": "/static/js/main.c4255b10.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b3b2719c.js",
     "runtime-main.js.map": "/static/js/runtime-main.b3b2719c.js.map",
     "static/css/2.1ebb0010.chunk.css": "/static/css/2.1ebb0010.chunk.css",
-    "static/js/2.d1c25c5e.chunk.js": "/static/js/2.d1c25c5e.chunk.js",
-    "static/js/2.d1c25c5e.chunk.js.map": "/static/js/2.d1c25c5e.chunk.js.map",
+    "static/js/2.5354caa2.chunk.js": "/static/js/2.5354caa2.chunk.js",
+    "static/js/2.5354caa2.chunk.js.map": "/static/js/2.5354caa2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6df198d5c0b197da1b97457fb4706bb4.js": "/precache-manifest.6df198d5c0b197da1b97457fb4706bb4.js",
+    "precache-manifest.98921011dffb0f2d7a08993c970cf4d0.js": "/precache-manifest.98921011dffb0f2d7a08993c970cf4d0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1ebb0010.chunk.css.map": "/static/css/2.1ebb0010.chunk.css.map",
     "static/css/main.52c35469.chunk.css.map": "/static/css/main.52c35469.chunk.css.map",
     "static/media/4db8c94e-7e49-4efd-9058-7641d0ac6627.JPG": "/static/media/4db8c94e-7e49-4efd-9058-7641d0ac6627.3f65e071.JPG",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/EidMilanParty.jpeg": "/static/media/EidMilanParty.4df17312.jpeg",
     "static/media/FB_IMG_1558775250680.jpg": "/static/media/FB_IMG_1558775250680.b0f5da4a.jpg",
     "static/media/JawaidWali(F)(B).jpeg": "/static/media/JawaidWali(F)(B).9653185a.jpeg",
     "static/media/KamranQamarTanoli.jpg": "/static/media/KamranQamarTanoli.6fd9835e.jpg",
+    "static/media/KhalidMerajKhan.jpeg": "/static/media/KhalidMerajKhan.49c6a825.jpeg",
     "static/media/MuhammadAfzalTanoli.jpg": "/static/media/MuhammadAfzalTanoli.b0f5da4a.jpg",
     "static/media/MuhammadFaisalImage(B).JPG": "/static/media/MuhammadFaisalImage(B).abad1d88.JPG",
     "static/media/MuhammadTanveerTanoli(F)(S).JPG": "/static/media/MuhammadTanveerTanoli(F)(S).3f65e071.JPG",
@@ -74,13 +76,14 @@
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/themain.jpeg": "/static/media/themain.9983a57f.jpeg",
-    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg"
+    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg",
+    "static/media/weddingEvent.jpeg": "/static/media/weddingEvent.d96182c3.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.b3b2719c.js",
     "static/css/2.1ebb0010.chunk.css",
-    "static/js/2.d1c25c5e.chunk.js",
+    "static/js/2.5354caa2.chunk.js",
     "static/css/main.52c35469.chunk.css",
-    "static/js/main.ef9f6fb9.chunk.js"
+    "static/js/main.c4255b10.chunk.js"
   ]
 }
