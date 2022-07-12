@@ -426,7 +426,7 @@ const about = {
     {
       title: "KHALID MERAJ KHAN ",
       subtitle: " MEMBER",
-      logo_path: "",
+      logo_path: "KhalidMerajKhan.jpeg",
       color_code: "#00000099",
     },
     {
@@ -451,13 +451,13 @@ const about = {
   founderMembers: [
     {
       title: "JAWAID WALI ",
-      subtitle: "CHAIRMAN",
+      subtitle: " FOUNDER / CHAIRMAN",
       logo_path: "JawaidWali(F)(B).jpeg",
       color_code: "#00000099",
     },
     {
       title: "MUHAMMAD TANVEER TANOLI ",
-      subtitle: " FOUNDER ",
+      subtitle: " HONORARY FOUNDER ",
       logo_path: "MuhammadTanveerTanoli(F)(S).JPG",
       color_code: "#00000099",
     },
@@ -475,6 +475,28 @@ const experience = {
     {
       title: "Services",
       experiences: [
+        {
+          title: "EID MILAN PARTY ",
+          company: "KHARYALA WELFARE TRUST",
+          company_url: "#",
+          logo_path: "EidMilanParty.jpeg",
+          duration: " 12th July 2022 ",
+          location: "Karachi, Pakistan",
+          description:
+            "it was a bakra eid milan party, organised by kharyala walfer trust",
+          color: "#0879bf",
+        },
+        {
+          title: "WEDDING EVENT ",
+          company: "KHARYALA WELFARE TRUST",
+          company_url: "#",
+          logo_path: "weddingEvent.jpeg",
+          duration: " June 2022 ",
+          location: "Karachi, Pakistan",
+          description:
+            "it was a wedding event, organised by kharyala walfer trust",
+          color: "#0879bf",
+        },
         {
           title: "CRICKET TOURNAMENT ",
           company: "KHARYALA WELFARE TRUST",
