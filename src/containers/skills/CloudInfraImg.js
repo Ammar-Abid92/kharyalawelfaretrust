@@ -27,6 +27,7 @@ const CloudInfraImg = () => {
             marginLeft: "0px",
             maxWidth: "100%",
             height: "auto",
+            borderRadius: "15px"
           }}
           src={require("../../assests/images/main2.jpeg")}
           alt="Kharyala Trust"
@@ -38,6 +39,7 @@ const CloudInfraImg = () => {
               marginLeft: "0px",
               maxWidth: "100%",
               height: "auto",
+              borderRadius: "15px"
             }}
             src={data.urls}
             alt="Kharyala Trust"

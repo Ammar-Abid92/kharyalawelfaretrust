@@ -27,6 +27,7 @@ const DataScienceImg = () => {
             marginLeft: "0px",
             maxWidth: "100%",
             height: "auto",
+            borderRadius: "15px"
           }}
           src={require("../../assests/images/themain.jpeg")}
           alt="Kharyala Trust"
@@ -38,6 +39,7 @@ const DataScienceImg = () => {
               marginLeft: "0px",
               maxWidth: "100%",
               height: "auto",
+              borderRadius: "15px"
             }}
             src={data.urls}
             alt="Kharyala Trust"

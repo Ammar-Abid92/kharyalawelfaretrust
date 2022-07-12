@@ -502,7 +502,7 @@ const experience = {
           company: "KHARYALA WELFARE TRUST",
           company_url: "#",
           logo_path: "main5.jpeg",
-          duration: " 2021 ",
+          duration: " 5th May 2022 ",
           location: "Karachi, Pakistan",
           description:
             "it was cricket tournament, organised by kharyala walfer trust",
@@ -524,7 +524,7 @@ const experience = {
           company: "KHARYALA WELFARE TRUST",
           company_url: "#",
           logo_path: "main4.jpeg",
-          duration: "Apr 18, 2018",
+          duration: "Apr 18, 2021",
           location: "Karachi, Pakistan",
           description:
             "A ration bag and cash distribution ceremony that was presented by the chair person Jawaid Wali with other board of trustees and Shurra members",
