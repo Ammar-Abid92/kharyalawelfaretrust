@@ -408,6 +408,13 @@ const about = {
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
+    {
+      title: "  RIZWAN TANOLI ",
+      subtitle: " MEMBER",
+      logo_path: "RizwanTanoli.jpeg",
+      alt_name: "deeplearning.ai",
+      color_code: "#00000099",
+    },
   ],
   mediaMembers: [
     {
@@ -417,7 +424,7 @@ const about = {
       color_code: "#00000099",
     },
     {
-      title: "KHALID MERAJ  ",
+      title: "KHALID MERAJ KHAN ",
       subtitle: " MEMBER",
       logo_path: "",
       color_code: "#00000099",

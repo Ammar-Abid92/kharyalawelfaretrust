@@ -24,11 +24,11 @@ const DataScienceImg = () => {
       {!dataBool ? (
         <img
           style={{
-            marginLeft: "0px",
+            marginLeft: "20px",
             height: "400px",
             width: "430px",
           }}
-          src={require("../../assests/images/main1.png")}
+          src={require("../../assests/images/themain.jpeg")}
           alt="Kharyala Trust"
         ></img>
       ) : (
