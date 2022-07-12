@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.36bb689f.chunk.css",
-    "main.js": "/static/js/main.9c39edda.chunk.js",
-    "main.js.map": "/static/js/main.9c39edda.chunk.js.map",
+    "main.js": "/static/js/main.2c850899.chunk.js",
+    "main.js.map": "/static/js/main.2c850899.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b3b2719c.js",
     "runtime-main.js.map": "/static/js/runtime-main.b3b2719c.js.map",
     "static/css/2.1ebb0010.chunk.css": "/static/css/2.1ebb0010.chunk.css",
-    "static/js/2.6cbb31ea.chunk.js": "/static/js/2.6cbb31ea.chunk.js",
-    "static/js/2.6cbb31ea.chunk.js.map": "/static/js/2.6cbb31ea.chunk.js.map",
+    "static/js/2.93249fc5.chunk.js": "/static/js/2.93249fc5.chunk.js",
+    "static/js/2.93249fc5.chunk.js.map": "/static/js/2.93249fc5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6bfc6787529d5c6eee5930dfc44ca324.js": "/precache-manifest.6bfc6787529d5c6eee5930dfc44ca324.js",
+    "precache-manifest.4a5c4e4b09f53219a86751efd6d2b0a0.js": "/precache-manifest.4a5c4e4b09f53219a86751efd6d2b0a0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1ebb0010.chunk.css.map": "/static/css/2.1ebb0010.chunk.css.map",
     "static/css/main.36bb689f.chunk.css.map": "/static/css/main.36bb689f.chunk.css.map",
@@ -21,6 +21,7 @@
     "static/media/MuhammadAfzalTanoli.jpg": "/static/media/MuhammadAfzalTanoli.b0f5da4a.jpg",
     "static/media/MuhammadFaisalImage(B).JPG": "/static/media/MuhammadFaisalImage(B).abad1d88.JPG",
     "static/media/MuhammadTanveerTanoli(F)(S).JPG": "/static/media/MuhammadTanveerTanoli(F)(S).3f65e071.JPG",
+    "static/media/RizwanTanoli.jpeg": "/static/media/RizwanTanoli.11c5631f.jpeg",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.be4f4800.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
@@ -71,13 +72,14 @@
     "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
+    "static/media/themain.jpeg": "/static/media/themain.9983a57f.jpeg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b3b2719c.js",
     "static/css/2.1ebb0010.chunk.css",
-    "static/js/2.6cbb31ea.chunk.js",
+    "static/js/2.93249fc5.chunk.js",
     "static/css/main.36bb689f.chunk.css",
-    "static/js/main.9c39edda.chunk.js"
+    "static/js/main.2c850899.chunk.js"
   ]
 }
