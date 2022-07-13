@@ -58,7 +58,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Gmail",
-    link: "mailto:kharyalawelfaretrust@gmail.com",
+    link: "mailto:info@kharyala.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -206,14 +206,14 @@ const about = {
     {
       title: " MUHAMMAD ASIF",
       subtitle: "GENERAL SECRETARY",
-      logo_path: "",
+      logo_path: "MuhammadAsif.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
     {
       title: " ABDUL RASHEED",
       subtitle: "FINANCE SECRETARY",
-      logo_path: "",
+      logo_path: "AbdulRasheed.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -262,9 +262,9 @@ const about = {
   ],
   shurraMembers: [
     {
-      title: " MUHAMMAD YOUNUS TANOLI",
+      title: "HAJI MUHAMMAD YOUNUS TANOLI",
       subtitle: "HONORARY CHIEF EXECUTIVE MEMBER",
-      logo_path: "",
+      logo_path: "HajiYonusTanoli.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -277,7 +277,7 @@ const about = {
     {
       title: " SUFI HAKEEM MUHAMMAD ANWER",
       subtitle: " MEMBER",
-      logo_path: "",
+      logo_path: "SufiHakim.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -289,16 +289,16 @@ const about = {
       color_code: "#00000099",
     },
     {
-      title: " MUHAMMAD AMEEN",
+      title: " MUHAMMAD AMEEN TANOLI",
       subtitle: " MEMBER",
-      logo_path: "",
+      logo_path: "AmeenTanoli.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
     {
-      title: "  MUHAMMAD SAQIB",
+      title: "  MUHAMMAD SAQIB TANOLI",
       subtitle: " MEMBER",
-      logo_path: "",
+      logo_path: "MuhammadSaqib.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -341,7 +341,7 @@ const about = {
     {
       title: "  EIJAZ AHMED",
       subtitle: " MEMBER",
-      logo_path: "",
+      logo_path: "MuhammadEjaz.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -430,9 +430,9 @@ const about = {
       color_code: "#00000099",
     },
     {
-      title: "MUHAMMAD AMEEN  ",
+      title: "MUHAMMAD AMEEN TANOLI",
       subtitle: " MEMBER",
-      logo_path: "",
+      logo_path: "AmeenTanoli.jpeg",
       color_code: "#00000099",
     },
     {
