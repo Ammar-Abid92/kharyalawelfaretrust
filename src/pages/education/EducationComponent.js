@@ -29,7 +29,8 @@ class Education extends Component {
               </div>
             </div>
           </Fade>
-          {/* <Educations theme={this.props.theme} /> */}
+          <Educations theme={this.props.theme} />
+          
           <Certifications theme={this.props.theme} />
         </div>
         <Footer theme={this.props.theme} />

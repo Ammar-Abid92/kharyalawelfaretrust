@@ -7,6 +7,7 @@ import SeoHeader from "../seoHeader/SeoHeader";
 const onMouseEnter = (event, color) => {
   const el = event.target;
   el.style.backgroundColor = color;
+  el.style.borderRadius = "20px";
 };
 
 const onMouseOut = (event) => {
@@ -28,7 +29,7 @@ class Header extends Component {
               <span className="logo-name" style={{ color: theme.text }}>
                 <img
                   className="logoImage"
-                  src={require("../../assests/images/logo.png")}
+                  src={require("../../assests/images/logo.jpg")}
                 />
                 {greeting.logo_name}
               </span>

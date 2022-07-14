@@ -11,8 +11,8 @@ class Educations extends Component {
       <div className="main" id="educations">
         <div className="educations-header-div">
           <Fade bottom duration={2000} distance="20px">
-            <h1 className="educations-header" style={{ color: theme.text }}>
-              Degrees Received
+            <h1 className="educations-header" style={{ color: theme.text, fontWeight:"bolder" }}>
+              About Kharyala Welfare Trust 
             </h1>
           </Fade>
         </div>

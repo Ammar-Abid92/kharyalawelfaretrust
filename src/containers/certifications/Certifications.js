@@ -10,7 +10,14 @@ class Certifications extends Component {
     return (
       <div className="main" id="certs">
         <div className="certs-header-div">
+        <Fade bottom duration={2000} distance="20px">
+            <h1 className="certs-header" style={{ color: theme.text, fontWeight:"bolder" }}>
+              About Our Team
+            </h1>
+            <br />
+          </Fade>
           <Fade bottom duration={2000} distance="20px">
+            <br/>
             <h1 className="certs-header" style={{ color: theme.text }}>
               Board Of Trustees
             </h1>
