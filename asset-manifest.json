@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8a6f2e5.chunk.css",
-    "main.js": "/static/js/main.dd541e90.chunk.js",
-    "main.js.map": "/static/js/main.dd541e90.chunk.js.map",
+    "main.css": "/static/css/main.13bbe63a.chunk.css",
+    "main.js": "/static/js/main.b5bcbb5d.chunk.js",
+    "main.js.map": "/static/js/main.b5bcbb5d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b3b2719c.js",
     "runtime-main.js.map": "/static/js/runtime-main.b3b2719c.js.map",
     "static/css/2.1ebb0010.chunk.css": "/static/css/2.1ebb0010.chunk.css",
-    "static/js/2.efb00e73.chunk.js": "/static/js/2.efb00e73.chunk.js",
-    "static/js/2.efb00e73.chunk.js.map": "/static/js/2.efb00e73.chunk.js.map",
+    "static/js/2.94a29ac4.chunk.js": "/static/js/2.94a29ac4.chunk.js",
+    "static/js/2.94a29ac4.chunk.js.map": "/static/js/2.94a29ac4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.44b736dcff6a8b5130ffb72c43838839.js": "/precache-manifest.44b736dcff6a8b5130ffb72c43838839.js",
+    "precache-manifest.6a261a4d8ccccb2edd9ca12481b9d566.js": "/precache-manifest.6a261a4d8ccccb2edd9ca12481b9d566.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1ebb0010.chunk.css.map": "/static/css/2.1ebb0010.chunk.css.map",
-    "static/css/main.f8a6f2e5.chunk.css.map": "/static/css/main.f8a6f2e5.chunk.css.map",
+    "static/css/main.13bbe63a.chunk.css.map": "/static/css/main.13bbe63a.chunk.css.map",
     "static/media/4db8c94e-7e49-4efd-9058-7641d0ac6627.JPG": "/static/media/4db8c94e-7e49-4efd-9058-7641d0ac6627.3f65e071.JPG",
     "static/media/AbdulRasheed.jpeg": "/static/media/AbdulRasheed.7b153132.jpeg",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -64,6 +64,7 @@
     "static/media/jk.jpg": "/static/media/jk.6fd9835e.jpg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.c597fbde.png",
+    "static/media/logo.jpg": "/static/media/logo.7baf5b09.jpg",
     "static/media/logo.png": "/static/media/logo.833b97f8.png",
     "static/media/main.png": "/static/media/main.01b260de.png",
     "static/media/main1.png": "/static/media/main1.eeece036.png",
@@ -73,6 +74,7 @@
     "static/media/main5.jpeg": "/static/media/main5.ab1407ca.jpeg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.069938a8.png",
+    "static/media/needy.jpeg": "/static/media/needy.efde7c84.jpeg",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
@@ -84,13 +86,14 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/themain.jpeg": "/static/media/themain.9983a57f.jpeg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg",
+    "static/media/village.jpeg": "/static/media/village.7da27ed6.jpeg",
     "static/media/weddingEvent.jpeg": "/static/media/weddingEvent.d96182c3.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.b3b2719c.js",
     "static/css/2.1ebb0010.chunk.css",
-    "static/js/2.efb00e73.chunk.js",
-    "static/css/main.f8a6f2e5.chunk.css",
-    "static/js/main.dd541e90.chunk.js"
+    "static/js/2.94a29ac4.chunk.js",
+    "static/css/main.13bbe63a.chunk.css",
+    "static/js/main.b5bcbb5d.chunk.js"
   ]
 }
