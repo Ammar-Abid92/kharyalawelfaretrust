@@ -172,8 +172,8 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Kharyala Village, Abottabad",
-      subtitle: "",
+      title: "Kharyala Village",
+      subtitle: "District mansehra, UC  Karori Kharyala",
       logo_path: "village.jpeg",
       alt_name: "Kharyala Village",
       duration: "",
