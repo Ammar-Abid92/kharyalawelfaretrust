@@ -230,9 +230,9 @@ const about = {
       color_code: "#00000099",
     },
     {
-      title: " ZAKIR KHAN ",
+      title: " ZAKIR KHAN TANOLI ",
       subtitle: "INFORMATION SECRETARY",
-      logo_path: "noUser.png",
+      logo_path: "ZakirTanoli.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -253,7 +253,7 @@ const about = {
     {
       title: " MUHAMMAD JUNAID",
       subtitle: "OFFICE SECRETARY",
-      logo_path: "noUser.png",
+      logo_path: "JunaidYousuf.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -325,7 +325,7 @@ const about = {
     {
       title: "  MUHAMMAD SAJJAD",
       subtitle: " MEMBER",
-      logo_path: "noUser.png",
+      logo_path: "Sajjad.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -360,7 +360,7 @@ const about = {
     {
       title: "  KHURSHEED KHAN",
       subtitle: " MEMBER",
-      logo_path: "noUser.png",
+      logo_path: "Khursheed.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
