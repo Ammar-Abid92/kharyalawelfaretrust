@@ -600,7 +600,7 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Us",
-    profile_image_path: "main.png",
+    profile_image_path: "kharyalaMainImg.jpeg",
     description:
       "We are available on almost every social media platform. You can message, call or email for any query and help",
   },
