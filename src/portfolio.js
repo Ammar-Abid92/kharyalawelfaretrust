@@ -442,7 +442,7 @@ const about = {
     {
       title: "MUHAMMAD UMER KHALID ",
       subtitle: " MEMBER",
-      logo_path: "noUser.png",
+      logo_path: "MuhammadUmerKhalid.jpeg",
       color_code: "#00000099",
     },
   ],
