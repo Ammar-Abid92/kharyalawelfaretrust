@@ -24,7 +24,7 @@ const FullStackImg = () => {
             alt="Kharyala"
           />
           <Carousel.Caption>
-            <h4 style={{ color: "black" }}>JAWAID WALI -Founder</h4>
+            <h4 style={{ color: "black" , fontFamily:"georgia" }}>JAWAID WALI -CHAIRMAN</h4>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -36,7 +36,7 @@ const FullStackImg = () => {
             alt="Kharyala"
           />
           <Carousel.Caption>
-            <h4 style={{ color: "black" }}>M. TANVEER TANOLI -Founder</h4>
+            <h4 style={{ color: "black", fontFamily:"georgia" }}>M. TANVEER TANOLI -Founder</h4>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>

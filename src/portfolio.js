@@ -218,7 +218,7 @@ const about = {
     {
       title: " ABDUL KHALIQ",
       subtitle: "DEPUTY SECRETARY",
-      logo_path: "noUser.png",
+      logo_path: "AbdulKhaliqDS.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -449,13 +449,13 @@ const about = {
   founderMembers: [
     {
       title: "JAWAID WALI ",
-      subtitle: " FOUNDER / CHAIRMAN",
+      subtitle: " CHAIRMAN",
       logo_path: "JawaidWali(F)(B).jpeg",
       color_code: "#00000099",
     },
     {
       title: "MUHAMMAD TANVEER TANOLI ",
-      subtitle: " HONORARY FOUNDER ",
+      subtitle: " FOUNDER ",
       logo_path: "MuhammadTanveerTanoli(F)(S).JPG",
       color_code: "#00000099",
     },
