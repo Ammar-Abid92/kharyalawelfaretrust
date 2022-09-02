@@ -40,19 +40,6 @@ const FullStackImg = () => {
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
-      {/* <div style={{display:'flex', justifyContent:'space-around'}} >
-        <img
-          style={{ height: "350px", width: "300px", borderRadius: "15px" }}
-          src={require("../../assests/images/JawaidWali(F)(B).jpeg")}
-          alt="Ammar"
-        ></img>
-        
-        <img
-          style={{ height: "350px", width: "300px", borderRadius: "15px" }}
-          src={require("../../assests/images/MuhammadTanveerTanoli(F)(S).JPG")}
-          alt="Ammar"
-        ></img>
-      </div> */}
     </Fade>
   );
 };

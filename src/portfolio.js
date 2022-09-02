@@ -474,6 +474,28 @@ const experience = {
       title: "Services",
       experiences: [
         {
+          title: "FLOOD RELIEF CAMP",
+          company: "KHARYALA WELFARE TRUST",
+          company_url: "#",
+          logo_path: "camp2.jpeg",
+          duration: "Aug 30, 2022",
+          location: "Karachi, Pakistan",
+          description:
+            "A camp is organized to collect money and ration for the affected people of KPK and Balochistan.This camp is initiated by the chairman Jawaid Wali, alongwith MNA Faheem Khan and ex-Nazim Qayyumabad Shamshaad khan and Dilshaad khan with other board of trustees and Shurra members of welfare trust",
+          color: "#fc1f20",
+        },
+        {
+          title: "RATION BAG & CASH DISTRIBUTION",
+          company: "KHARYALA WELFARE TRUST",
+          company_url: "#",
+          logo_path: "main4.jpeg",
+          duration: "Apr 18, 2021",
+          location: "Karachi, Pakistan",
+          description:
+            "A ration bag and cash distribution ceremony that was presented by the chair person Jawaid Wali with other board of trustees and Shurra members",
+          color: "#fc1f20",
+        },
+        {
           title: "EID MILAN PARTY ",
           company: "KHARYALA WELFARE TRUST",
           company_url: "#",
