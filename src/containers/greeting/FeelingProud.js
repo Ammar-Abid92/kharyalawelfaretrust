@@ -27,8 +27,9 @@ const FeelingProud = () => {
         style={{
           maxWidth: "100%",
           height: "auto",
+          borderRadius:'12px'
         }}
-          src={require("../../assests/images/themainmain.jpeg")}
+          src={require("../../assests/images/main6.jpeg")}
           alt="Kharyala Trust"
         ></img>
       ) : (
