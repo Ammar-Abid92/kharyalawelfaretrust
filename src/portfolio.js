@@ -178,8 +178,8 @@ const degrees = {
       alt_name: "Kharyala Village",
       duration: "",
       descriptions: [
-      
-        "⚡ This welfare trust was inaugurated from this native village of Kharyala. For more than twenty years, the people of kharyala did not have any proper medical dispensory, thus lacking many basic human facilities. So, inorder to rescue our people, the Kharyala Welfare Trust was inaugurated"      ],
+        "⚡ This welfare trust was inaugurated from this native village of Kharyala. For more than twenty years, the people of kharyala did not have any proper medical dispensory, thus lacking many basic human facilities. So, inorder to rescue our people, the Kharyala Welfare Trust was inaugurated",
+      ],
       website_link: "",
     },
   ],
@@ -254,6 +254,13 @@ const about = {
       title: " MUHAMMAD JUNAID",
       subtitle: "OFFICE SECRETARY",
       logo_path: "JunaidYousuf.jpeg",
+      alt_name: "deeplearning.ai",
+      color_code: "#00000099",
+    },
+    {
+      title: " ISRAAR KHAN",
+      subtitle: "OFFICE SECRETARY",
+      logo_path: "IsraarKhan.jpeg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
@@ -459,7 +466,7 @@ const about = {
       logo_path: "MuhammadTanveerTanoli(F)(S).JPG",
       color_code: "#00000099",
     },
-  ]
+  ],
 };
 
 // Experience Page
