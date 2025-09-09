@@ -413,6 +413,13 @@ const about = {
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
+    {
+      title: "  AZIZ-UR-REHMAN ",
+      subtitle: " MEMBER",
+      logo_path: "AzizUrRehman.jpeg",
+      alt_name: "deeplearning.ai",
+      color_code: "#00000099",
+    },
   ],
   mediaMembers: [
     {
